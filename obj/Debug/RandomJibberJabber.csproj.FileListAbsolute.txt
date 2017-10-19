@@ -1,0 +1,9 @@
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\bin\Debug\RandomJibberJabber.exe.config
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\bin\Debug\RandomJibberJabber.exe
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\bin\Debug\RandomJibberJabber.pdb
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\obj\Debug\RandomJibberJabber.Properties.Resources.resources
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\obj\Debug\RandomJibberJabber.csproj.GenerateResource.Cache
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\obj\Debug\RandomJibberJabber.exe
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\obj\Debug\RandomJibberJabber.pdb
+c:\users\alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\obj\Debug\RandomJibberJabber.JibberJabber.resources
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\RandomJibberJabber\RandomJibberJabber\obj\Debug\RandomJibberJabber.csprojResolveAssemblyReference.cache
